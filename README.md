@@ -1,9 +1,9 @@
-# 👨‍🚀 Rishab's Portfolio in Astro
+# 👨‍🚀 Arun's Portfolio in Astro
 
 ![Template](https://github.com/MaeWolff/astro-portfolio-template/blob/main/public/opengraph-image.jpg)
 
 
-This portfolio is based on theme by [Maxence](https://www.maxencewolff.com), the [repo is here](https://github.com/MaeWolff/astro-portfolio-template).
+This portfolio is based on theme by [Maxence](https://www.maxencewolff.com).
 
 ## 🧞 Commands
 
